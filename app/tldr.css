@@ -1,4 +1,11 @@
 body {
-    background-color: blue;
+    background-color: SkyBlue;
+    font-family: sans-serif;
+    color: #222;
 }
-
+blockquote {
+    margin-left: 0;
+}
+code {
+    margin-left: 3em;
+}
