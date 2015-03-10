@@ -25,7 +25,9 @@ blockquote {
 
 code {
     margin-left: 2em;
-    background-color: aquamarine;
+    background-color: PaleTurquoise;
+    padding: 0.2em;
+    border-radius: 0.3em;
 }
 
 ul {
