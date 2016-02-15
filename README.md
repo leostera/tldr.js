@@ -1,5 +1,5 @@
 # tldr.js
-> A web client for [tldr](https://github.com/tldr-pages/tldr). Try it [here](http://ostera.io/tldr.js).
+> Note that this client is unmaintained, and you should be taking a look at [tldr.jsx](https://github.com/ostera/tldr.jsx) :)
 
 ![tldr.js](https://s3.amazonaws.com/leostera.2015/tldr.js.new.png)
 
